@@ -2,7 +2,7 @@
 
 - 🔭 Analista de TI 2 ...
 - 🌱 Estudando tecnologias DevOps
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div>
   <div> 
